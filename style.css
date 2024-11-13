@@ -10,6 +10,7 @@
 }
 html,
 body {
+  cursor: default;
   height: 100%;
   width: 100%;
   background-color: #e4ff6e;
